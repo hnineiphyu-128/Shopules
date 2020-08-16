@@ -1,0 +1,45 @@
+class=text-truncate
+
+codeno=strtotime(img mt-rand)
+
+frontend
+=================
+retrieve data
+subcategory.php
+		subcategory.php?id=<?= $id ?>
+		subcategory-id get
+
+promotion.php/promotiom.html
+
+login/sinup
+register.php(form)/login.php(form)
+
+sinup.php(insert user)
+
+frontend
+==========
+subcategory
+detail
+loginuser
+	isset(session)
+		NAV->user account
+		name + dropdown(logout->sinout.php)
+	else
+		NAV|USER
+
+
+
+localstorage
+===============
+remove
+qty-plus
+qty-minus
+
+
+backend
+==============
+order detail
+userlist (burn user from table no database)status 1 change
+dashboard(orderdate today date)
+
+   
